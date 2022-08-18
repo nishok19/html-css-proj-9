@@ -6,6 +6,8 @@
 
 In the ninth project of HTML and CSS class I have learnt every small things in CSS like `box-shadow`, `position`, `flex-box` and used it all together. Learnt more about flex-box and its properties along that. The site is made Mobile responsive.
 
+[Project Live Link](https://nishok-html-css-proj9.netlify.app/)
+
 ## Efforts
 
 This project took around 8 hours to build the webpage with the cards.Referred many articles and solutions of other developers to make this website.
